@@ -3,11 +3,14 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <excludeFolder url="file://$MODULE_DIR$/toonflix/build" />
-      <excludeFolder url="file://$MODULE_DIR$/toonflix/.pub" />
-      <excludeFolder url="file://$MODULE_DIR$/toonflix/.dart_tool" />
-      <excludeFolder url="file://$MODULE_DIR$/toonflix/.idea/libraries" />
-      <excludeFolder url="file://$MODULE_DIR$/toonflix/macos/Flutter/ephemeral" />
+      <excludeFolder url="file://$MODULE_DIR$/wallet/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/wallet/macos/Flutter/ephemeral" />
+      <excludeFolder url="file://$MODULE_DIR$/wallet/.idea/libraries" />
+      <excludeFolder url="file://$MODULE_DIR$/wallet/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/wallet/build" />
+      <excludeFolder url="file://$MODULE_DIR$/pomodoro/build" />
+      <excludeFolder url="file://$MODULE_DIR$/pomodoro/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/pomodoro/.pub" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
