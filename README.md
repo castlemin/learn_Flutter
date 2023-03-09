@@ -5,3 +5,4 @@
 - [3. UI challenge](study_notes/3.UI_challenge.md)
 - [4. Stateful Widgets](study_notes/4.Stateful_Widgets.md)
 - [5. POMODORO_APP](study_notes/5.POMODORO_APP.md)
+- [6. WEBTOON_APP](study_notes/6.Webtoon_APP.md)
